@@ -1,0 +1,6 @@
+
+.vscode
+secure.json
+client/auth0Logins.txt
+client/src/secure.json
+server/main/secure.json
